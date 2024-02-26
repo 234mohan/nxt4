@@ -1,0 +1,43 @@
+.container-row {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  background-color: #1e293b;
+  color: white;
+  width: 300px;
+  height: 100vh;
+}
+.container-column {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+  background-color: white;
+  width: 300px;
+  height: 100vh;
+}
+.flex {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 180px;
+  text-align: left;
+}
+.parameter {
+  margin-left: 10px;
+}
+.icon {
+  margin-right: 20px;
+  margin-left: 0px;
+}
+.link {
+  text-decoration: none;
+}
+.successes {
+  color: white;
+}
+.failure {
+  color: black;
+}

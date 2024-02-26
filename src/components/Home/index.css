@@ -1,0 +1,99 @@
+.extra {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.backside {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/nxt-watch-banner-bg.png');
+  background-size: cover;
+  width: 100vw;
+  padding: 30px;
+}
+.but {
+  height: 40px;
+  width: 100px;
+  border: 1px solid black;
+  color: black;
+  background-color: transparent;
+}
+.reverse-background {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  background-color: #0f0f0f;
+  padding: 30px;
+  color: white;
+}
+.reserve {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  background-color: white;
+  padding: 30px;
+  color: black;
+}
+.container8 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.inputs {
+  background-color: transparent;
+  padding: 20px;
+  color: blue;
+  border: 2px solid blue;
+}
+.police {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+.cross {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.search {
+  background-color: transparent;
+}
+.just {
+  height: 600px;
+  width: 600px;
+  margin-right: 0px;
+  margin-left: 200px;
+  margin-top: 120px;
+  margin-bottom: 0px;
+}
+.failure {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 1150px;
+}
+.retry-button {
+  margin-left: 300px;
+  height: 40px;
+  width: 100px;
+  background-color: blue;
+  color: white;
+  border-width: 0px;
+  border-radius: 10px;
+}
+.hell {
+  margin-left: 300px;
+  color: black;
+}
+hells {
+  margin-left: 300px;
+  color: white;
+}

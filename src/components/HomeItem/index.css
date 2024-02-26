@@ -1,0 +1,54 @@
+.thumbnailurl {
+  height: 200px;
+  width: 350px;
+}
+.sales {
+  margin-right: 20px;
+}
+.nurse {
+  list-style-type: none;
+}
+.profileurl {
+  height: 40px;
+  width: 40px;
+}
+.sister {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.pare {
+  width: 250px;
+  color: black;
+  font-weight: 500;
+  margin-left: 10px;
+}
+.name {
+  color: black;
+  font-size: 12px;
+  font-weight: 400;
+  margin-left: 10px;
+}
+.count {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.countse {
+  margin-left: 10px;
+  margin-top: 0px;
+  font-size: 12px;
+  font-weight: 400;
+}
+.venkat {
+  margin-left: 10px;
+  font-size: 12px;
+  font-weight: 400;
+}
+.doctor {
+  color: white;
+}
+.lassi {
+  text-decoration: none;
+}

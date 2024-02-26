@@ -1,0 +1,28 @@
+.ssc {
+  height: 300px;
+  width: 350px;
+}
+.tenth {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin: 20px;
+}
+.fifth {
+  margin-left: 20px;
+}
+.view {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.at {
+  margin-top: 18px;
+}
+.cent {
+  color: white;
+}
+.age {
+  color: black;
+}

@@ -1,0 +1,47 @@
+.section-image {
+  height: 300px;
+  width: 500px;
+}
+.classes {
+  margin: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.apple {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin: 10px;
+}
+.ps {
+  width: 500px;
+  font-size: 30px;
+  font-weight: 900;
+}
+.box {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.ss {
+  margin-left: 10px;
+}
+.dark {
+  background-color: #ebebeb;
+}
+.hash {
+  background-color: #0f0f0f;
+}
+.lassi {
+  text-decoration: none;
+}
+.blue {
+  color: white;
+}
+.orange {
+  color: black;
+}

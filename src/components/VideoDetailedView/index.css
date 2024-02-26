@@ -1,0 +1,53 @@
+.structure {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin:0px;
+}
+.disco {
+  padding: 50px;
+  background-color: #e2e8f0;
+  width: 100vw;
+}
+.url {
+  width: 100vw;
+}
+.discos {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  width: 100vw;
+  margin: 0px;
+}
+.section {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: flex-start;
+  margin-left: 220px;
+  height: 40px;
+}
+.count {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 0px;
+}
+.sections {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+  margin-right: 10px;
+  margin-left: 10px;
+  margin-bottom: 0px;
+}
+.horizontal {
+  border: 1px solid black;
+  width: 990px;
+  margin-right: 1000px;
+  margin-top: none;
+  padding-top: 0px;
+}
